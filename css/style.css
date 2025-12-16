@@ -1205,7 +1205,6 @@ body:not(:has(.checkbox-ios input[type=checkbox]:checked)) .harvest-frut{
 color: var(--green);	
 }
 
-
 .harvest-table{
 overflow-x: scroll;
 overflow-y: clip;
