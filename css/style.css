@@ -1255,9 +1255,6 @@ content: url('../img/yes.png');
 object-fit: cover;
 width: 32px;
 height: 32px;
-/*background: url('../img/yes.png');*/
-/*background-size: ;*/
-/*background-repeat: no-repeat;*/
 }
 
 .tool:after{
